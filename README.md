@@ -31,3 +31,6 @@ dbt test
 - staging = views, marts = tables (set in dbt_project.yml)
 - dbt test finds bad data before it causes problems
 - dbt-utils has a lot of useful macros so you dont have to write everything from scratch
+
+
+Author || Chaithra Varambally
